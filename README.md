@@ -1,4 +1,5 @@
 # Word_Smith 📝
+![CI](https://github.com/realMNohgee/Word_Smith/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Analyze text readability, word counts, and grade levels from the terminal.** Zero dependencies, pure Python stdlib.
 
